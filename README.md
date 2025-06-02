@@ -1,3 +1,3 @@
 # python
 
-this is a repository for
+this is a repository for python
